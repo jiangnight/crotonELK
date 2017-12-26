@@ -1,0 +1,2 @@
+ERROR_QUERY Traceback.*
+TRUE_QUERY  \[scrapy.statscollectors\].*
